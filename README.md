@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandesh Dhital</h1>
 
 <h3 align="center">
-ML Engineer • AI/ML • AI Agents • Full Stack Developer • DevOps
+ AI/ML Engineer • AI Agents • Full Stack Developer • DevOps
 </h3>
 
 <p align="center">
